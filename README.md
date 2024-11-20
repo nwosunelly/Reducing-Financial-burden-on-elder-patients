@@ -1,4 +1,4 @@
-# Reducing-Financial-burden-on-elder-patients
+# Reducing-Financial-burden-on-elderly-patients
 Reducing the financial burden on the elderly by tackling allergic conditions. A case study of the Maryland Department of Health.
 Allergy reactions are the most common immunological diseases and represent the most widespread and growing chronic human problems among people 15 years and older in developed countries. Allergies have a heightened risk of heart problems (Bergmann, K., & Sypniewska, 2011). As populations get older worldwide, allergy manifestations in aged persons will occur more often in the future. 
 Maryland state, and specifically Baltimore City, currently struggles with allergies. According to the Maryland Department of Health, 13.7% of Baltimore City adults currently have asthma, compared to 9.0% statewide and 9.0% nationally. Baltimore City's rate of emergency department visits due to asthma is the highest in Maryland (City of Baltimore, 2022). 
