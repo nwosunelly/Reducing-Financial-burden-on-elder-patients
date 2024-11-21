@@ -5,6 +5,9 @@ Maryland state, and specifically Baltimore City, currently struggles with allerg
 
 The purpose of this project is to propose some level of assistance in the healthcare needs of the older population in Baltimore by addressing the issue of allergic conditions.
 
+## About the Dataset
+The dataset used in this project was obtained from Synthea. SyntheaTM is a synthetic patient generator that models the medical history of synthetic patients with a mission to output high-quality synthetic, realistic but not real, patient data and associated health records covering every aspect of healthcare. The resulting data was free from cost, privacy, and security restrictions (https://github.com/synthetichealth/synthea/wiki).
+
 ## Conclusion/Suggestions
 Decreasing total pollen in the air and controlling the abundance of more allergic pollen such as ragweed pollen can be accomplished by excluding undesirable pollen producers in newly built communities or in established neighborhoods.
 Stricter home inspections could be a solution to the mold issue.
